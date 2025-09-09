@@ -7,6 +7,19 @@
 ##  Overview
 Automated system for Russian passport recognition and data extraction using computer vision and deep learning techniques. Developed as a Bachelor's thesis project.
 
+## Features
+
+- Automatically detects and crops Russian passport pages from scans or photos  
+- Extracts key fields: full name, date of birth, place of birth, issue date, authority code, issuing authority  
+- Crops and saves the passport holder’s photo  
+- Corrects orientation and perspective distortions of the document  
+- Recognizes text using a hybrid OCR approach (Tesseract + EasyOCR) with post-processing and fallback  
+- Supports batch processing with a graphical interface (progress bar and detailed view)  
+- Validates and auto-corrects recognized data to reduce errors  
+- **Exports results** to multiple formats: Excel (`.xlsx`), CSV, JSON, and SQLite  
+- Works fully offline on Windows
+
+
 ##  Technologies Used
 - **Deep Learning:** YOLOv8, PyTorch
 - **OCR:** Tesseract, EasyOCR (with custom fine-tuning)
