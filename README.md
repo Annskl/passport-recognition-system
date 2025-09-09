@@ -17,8 +17,8 @@ Automated system for Russian passport recognition and data extraction using comp
 ##  System Output Examples
 
 ### Detection and Recognition Results
-![Example 1](images/result_program.jpg)
-![Example 2](images/result_program_detailed_view.jpg)
+![result program](images/result_program.jpg)
+![result program detailed view](images/result_program_detailed_view.jpg)
 
 
 ##  Research Contributions
