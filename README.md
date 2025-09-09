@@ -17,8 +17,8 @@ Automated system for Russian passport recognition and data extraction using comp
 ##  System Output Examples
 
 ### Detection and Recognition Results
-![result program](images/result_program.jpg)
-![result program detailed view](images/result_program_detailed_view.jpg)
+![result program](images/result_program.png)
+![result program detailed view](images/result_program_detailed_view.png)
 
 
 ##  Research Contributions
@@ -28,8 +28,8 @@ Automated system for Russian passport recognition and data extraction using comp
 4. Achieved 72% field extraction even on low-quality images
 
 ##  Documentation
-Full thesis available: [Bachelor_Thesis_Passport_Processing.pdf](docs/Bachelor_Thesis_Passport_Proccesing.pdf)
-Presentation of project: [Bachelor_Presentation_Passport_Processing.pdf](docs/Bachelor_Presentation_Passport_Proccesing.pdf)
+Full thesis available: [Bachelor_Thesis_Passport_Processing.pdf](docs/Bachelor_Thesis_Passport_Processing.pdf)
+Presentation of project: [Bachelor_Presentation_Passport_Processing.pdf](docs/Bachelor_Presentation_Passport_Processing.pdf)
 
 
 ---
