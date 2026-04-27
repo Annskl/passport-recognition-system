@@ -1,0 +1,29 @@
+# Артефакты PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Веса моделей (выкладывать в GitHub Releases)
+models/
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Локальные файлы
+config.local.json
+*.log
+.DS_Store
+Thumbs.db

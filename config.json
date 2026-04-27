@@ -1,0 +1,6 @@
+{
+  "page2_seg_model": "models/page2_seg_model/best.pt",
+  "fields_detect_model": "models/fields_detect_model/best.pt",
+  "passport_number_model": "models/passport_number_model/best.pt",
+  "ocr_training_data": "models/ocr_training"
+}

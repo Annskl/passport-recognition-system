@@ -1,0 +1,13 @@
+PyQt5>=5.15
+opencv-python>=4.8
+numpy>=1.24
+ultralytics>=8.1
+easyocr>=1.7
+pytesseract>=0.3.10
+torch>=2.0
+torchvision>=0.15
+pandas>=2.0
+openpyxl>=3.1
+scipy>=1.11
+Pillow>=10.0
+pyinstaller>=6.0
