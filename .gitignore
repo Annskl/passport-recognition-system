@@ -12,15 +12,44 @@ models/
 __pycache__/
 *.py[cod]
 *$py.class
+*.so
+*.egg
 *.egg-info/
+.Python
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+sdist/
+wheels/
+share/python-wheels/
+MANIFEST
+
+# Виртуальные окружения
 .venv/
 venv/
 env/
+ENV/
+.env
 
 # IDE
 .idea/
 .vscode/
+.spyderproject
+.spyproject
+.ropeproject
 *.swp
+
+# Тесты и линтеры
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.tox/
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints
 
 # Локальные файлы
 config.local.json
