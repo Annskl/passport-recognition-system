@@ -38,8 +38,7 @@ Automated system for Russian passport recognition and data extraction using comp
 1. Developed a hybrid approach combining classical CV and deep learning
 2. Created custom dataset with 500+ annotated passport images
 3. Implemented fallback mechanisms for robust performance
-4. Achieved 72% field extraction even on low-quality images
-
+4. Achieved 91%+ overall field-level accuracy; maintains 72%+ even on low-quality images
 ##  Documentation
 Full thesis available: [Bachelor_Thesis_Passport_Processing.pdf](docs/Bachelor_Thesis_Passport_Processing.pdf)
 Presentation of project: [Bachelor_Presentation_Passport_Processing.pdf](docs/Bachelor_Presentation_Passport_Processing.pdf)
